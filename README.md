@@ -1,7 +1,7 @@
-# BMI_Calculator
+
 <h1>
 <strong>
-IOS BMI Calculator
+IOS BMI Calculator made with Swift and UIKit
 </strong>
 </h1>
 <br>
